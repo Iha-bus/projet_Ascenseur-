@@ -1,0 +1,155 @@
+People waiting on floor 1
+	Larry arrived at 06:32:21 [waited for 41mn 33s] going to 10
+	Harold arrived at 06:38:03 [waited for 35mn 51s] going to 7
+	Donna arrived at 06:49:30 [waited for 24mn 24s] going to 6
+	Jeffrey arrived at 07:00:21 [waited for 13mn 33s] going to 3
+	Kevin arrived at 07:07:51 [waited for 6mn 3s] going to 7
+People waiting on floor 2
+	No one
+People waiting on floor 3
+	No one
+People waiting on floor 4
+	No one
+People waiting on floor 5
+	No one
+People waiting on floor 6
+	No one
+People waiting on floor 7
+	No one
+People waiting on floor 8
+	Gerald arrived at 07:13:54 [waited for 0s] going to 7
+People waiting on floor 9
+	No one
+People waiting on floor 10
+	No one
+
+[07:13:54] Elevator [Dumb] starting at floor 4
+[07:13:54] Elevator [Dumb] decides to go to floor [10]
+[07:13:54] Elevator [Dumb] going UP to floor 10 from floor 4
+
+[07:13:54] Elevator [VIP] starting at floor 5
+[07:13:54] Elevator [VIP] decides to go to floor [1]
+[07:13:54] Elevator [VIP] going DOWN to floor 1 from floor 5
+[07:13:57] Elevator [Dumb] door closed at floor 4, going to floor 10
+[07:13:57] Elevator [VIP] door closed at floor 5, going to floor 1
+
+[07:14:36] Elevator [VIP] arrived at floor 1
+[07:14:39] Elevator [VIP] door opened at floor 1
+[07:14:39] Elevator [VIP] decides to go to floor [3, 6, 7, 10]
+[07:14:39] Elevator [VIP] going UP to floor 3 from floor 1
+[07:14:48] Elevator [VIP] person loaded [Larry arrived at 06:32:21 [waited for 42mn 27s] going to 10] at floor 1
+[07:14:48] Elevator [VIP] person loaded [Harold arrived at 06:38:03 [waited for 36mn 45s] going to 7] at floor 1
+[07:14:48] Elevator [VIP] person loaded [Donna arrived at 06:49:30 [waited for 25mn 18s] going to 6] at floor 1
+[07:14:48] Elevator [VIP] person loaded [Jeffrey arrived at 07:00:21 [waited for 14mn 27s] going to 3] at floor 1
+[07:14:48] Elevator [VIP] person loaded [Kevin arrived at 07:07:51 [waited for 6mn 57s] going to 7] at floor 1
+[07:14:51] Elevator [VIP] door closed at floor 1, going to floor 3
+
+[07:15] Elevator [Dumb] arrived at floor 10
+[07:15:03] Elevator [Dumb] door opened at floor 10
+[07:15:03] Elevator [Dumb] decides to go to floor [1]
+[07:15:03] Elevator [Dumb] going DOWN to floor 1 from floor 10
+[07:15:06] Elevator [Dumb] door closed at floor 10, going to floor 1
+
+[07:15:33] Elevator [VIP] arrived at floor 3
+[07:15:36] Elevator [VIP] door opened at floor 3
+[07:15:45] Elevator [VIP] person unloaded [Jeffrey arrived at 07:00:21 [waited for 15mn 24s] going to 3] at floor 3
+[07:15:45] Elevator [VIP] decides to go to floor [6, 7, 10]
+[07:15:48] Elevator [VIP] door closed at floor 3, going to floor 6
+
+[07:16] Elevator [Dumb] arrived at floor 1
+[07:16:03] Elevator [Dumb] door opened at floor 1
+
+[07:16:03] Elevator [Dumb] standby at floor 1
+
+[07:16:36] Elevator [VIP] arrived at floor 6
+[07:16:39] Elevator [VIP] door opened at floor 6
+[07:16:48] Elevator [VIP] person unloaded [Donna arrived at 06:49:30 [waited for 27mn 18s] going to 6] at floor 6
+[07:16:48] Elevator [VIP] decides to go to floor [7, 10]
+[07:16:51] Elevator [VIP] door closed at floor 6, going to floor 7
+
+[07:17:09] Elevator [VIP] arrived at floor 7
+[07:17:12] Elevator [VIP] door opened at floor 7
+[07:17:21] Elevator [VIP] person unloaded [Harold arrived at 06:38:03 [waited for 39mn 18s] going to 7] at floor 7
+[07:17:21] Elevator [VIP] person unloaded [Kevin arrived at 07:07:51 [waited for 9mn 30s] going to 7] at floor 7
+[07:17:21] Elevator [VIP] decides to go to floor [10]
+[07:17:24] Elevator [VIP] door closed at floor 7, going to floor 10
+
+[07:18:12] Elevator [VIP] arrived at floor 10
+[07:18:15] Elevator [VIP] door opened at floor 10
+[07:18:24] Elevator [VIP] person unloaded [Larry arrived at 06:32:21 [waited for 46mn 3s] going to 10] at floor 10
+[07:18:24] Elevator [VIP] decides to go to floor [8]
+[07:18:27] Elevator [VIP] door closed at floor 10, going to floor 8
+[07:18:54] Elevator [Dumb] decides to go to floor [8, 7]
+
+[07:18:57] Elevator [VIP] arrived at floor 8
+[07:18:57] Elevator [Dumb] door closed at floor 1, going to floor 8
+[07:19] Elevator [VIP] door opened at floor 8
+[07:19] Elevator [VIP] decides to go to floor [7]
+[07:19] Elevator [VIP] going DOWN to floor 7 from floor 8
+[07:19:09] Elevator [VIP] person loaded [Gerald arrived at 07:13:54 [waited for 5mn 15s] going to 7] at floor 8
+[07:19:12] Elevator [VIP] door closed at floor 8, going to floor 7
+
+[07:19:30] Elevator [VIP] arrived at floor 7
+[07:19:33] Elevator [VIP] door opened at floor 7
+[07:19:42] Elevator [VIP] person unloaded [Gerald arrived at 07:13:54 [waited for 5mn 48s] going to 7] at floor 7
+[07:19:42] Elevator [VIP] decides to go to floor [1]
+[07:19:45] Elevator [VIP] door closed at floor 7, going to floor 1
+
+[07:20:03] Elevator [Dumb] arrived at floor 8
+[07:20:06] Elevator [Dumb] door opened at floor 8
+[07:20:06] Elevator [Dumb] decides to go to floor [7]
+[07:20:06] Elevator [Dumb] going DOWN to floor 7 from floor 8
+[07:20:09] Elevator [Dumb] door closed at floor 8, going to floor 7
+
+[07:20:27] Elevator [Dumb] arrived at floor 7
+
+[07:20:30] Elevator [VIP] arrived at floor 1
+[07:20:30] Elevator [Dumb] door opened at floor 7
+[07:20:30] Elevator [Dumb] decides to go to floor [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+[07:20:30] Elevator [Dumb] going DOWN to floor 1 from floor 7
+[07:20:33] Elevator [VIP] door opened at floor 1
+
+[07:20:33] Elevator [VIP] standby at floor 1
+[07:20:33] Elevator [Dumb] door closed at floor 7, going to floor 1
+
+[07:21:18] Elevator [Dumb] arrived at floor 1
+[07:21:21] Elevator [Dumb] door opened at floor 1
+
+[07:21:21] Elevator [Dumb] standby at floor 1
+People waiting on floor 1
+	No one
+People waiting on floor 2
+	No one
+People waiting on floor 3
+	No one
+People waiting on floor 4
+	No one
+People waiting on floor 5
+	No one
+People waiting on floor 6
+	No one
+People waiting on floor 7
+	No one
+People waiting on floor 8
+	No one
+People waiting on floor 9
+	No one
+People waiting on floor 10
+	No one
+Elevator [Dumb] stopped at floor 1 No one left in the elevator
+Elevator [VIP] stopped at floor 1 No one left in the elevator
+[08:30] Times up
+	Elevator [Dumb] max people loaded: 0
+	Elevator [VIP] max people loaded: 5
+ 0h  0mn 30s -> 0
+ 0h  3mn  0s -> 1
+ 0h  6mn  0s -> 1
+ 0h 15mn  0s -> 2
+ 0h 30mn  0s -> 2
+ 1h  0mn  0s -> 0
+Number of people taken = 6
+Average waiting time = 23mn 53s
+Max waiting time = 0h 46mn 3s
+People left in floors = 0
+People left in elevator [Dumb] = 0
+People left in elevator [VIP] = 0
